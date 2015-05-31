@@ -1,0 +1,11 @@
+name: DragonUtils
+main: me.redthedragon.dragonutils.DragonUtils
+version: 0.1
+description: Has Some Extra Goodie for Freeop Servers
+author: [RedTheDragon_, Alex33856]
+commands: 
+    dragonutilsmod:
+        description: Shows you info about dragonutils
+        usage: /<command>
+        aliases: [dum]
+    
