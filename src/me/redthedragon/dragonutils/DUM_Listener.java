@@ -1,10 +1,10 @@
 /*
 BukkitLib not created by the developers of this plugin
-Plugin AlexUtilsMod is public and open source
+Plugin DragonUtils is public and open source
 To find bukkit lib go to https://github.com/Pravian/BukkitLib
-(C) Alex33856 2015 - 2015 This Plugin
+(C) RedTheDragon_ 2015 - 2015 This Plugin
  */
-package me.alex33856.alexutilsmod;
+package me.redthedragon.dragonutils;
 
 import org.bukkit.ChatColor;
 import org.bukkit.entity.Player;
