@@ -44,7 +44,7 @@ public class DragonUtils extends BukkitPlugin {
         register(new DUM_Listener());
         config = new YamlConfig(plugin, "config.yml", true);
         config.load();
-        handler.setCommandLocation(Command_alexutilsmod.class.getPackage());
+        handler.setCommandLocation(Command_dragonutilsmod.class.getPackage());
         LoggerUtils.info(plugin, "Running on " + config.getString("server-name"));
         LoggerUtils.info(plugin, "Version " + plugin.getVersion() + " has been enabled! Created by " + plugin.getAuthors());
     }
