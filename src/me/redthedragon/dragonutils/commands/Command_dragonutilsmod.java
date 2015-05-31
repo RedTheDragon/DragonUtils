@@ -15,12 +15,12 @@ import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 
 /**
- * AlexUtilsMod Command
- * @author Alex33856
+ * DragonUtils Command
+ * @author RedTheDragon_
  */
 // Using BukkitLib permissions 
 @CommandPermissions(source = SourceType.ANY)
-public class Command_alexutilsmod extends BukkitCommand<DragonUtils> {
+public class Command_dragonutilsmod extends BukkitCommand<DragonUtils> {
 
     @Override
     public boolean run(CommandSender sender, Command command, String commandLabel, String[] args) {
